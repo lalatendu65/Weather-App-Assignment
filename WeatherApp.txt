@@ -1,0 +1,4 @@
+i  created the Weather App by using Html ,CSS and JavaScript 
+In my Application i created two pages one is home and search page to show the weatther condition of any city ,state and country 
+
+
